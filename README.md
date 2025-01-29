@@ -21,7 +21,7 @@ Make sure you have the following dependencies installed:
 - `tkinter` (built-in with Python)  
 - `math` (For calculations)  
 
-To install `tkcalendar`, run:  
+To install , run:  
 ```bash
 pip install math
 pip install python3-tk
