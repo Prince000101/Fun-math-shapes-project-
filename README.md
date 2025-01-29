@@ -3,7 +3,7 @@
 This is a **Python Tkinter** application that allows users to draw, resize, and rotate various geometric shapes. It provides an interactive UI with sliders for adjusting the shape size and rotation angle.  
 
 ## 🖼️ Screenshot  
-![Shape Drawer](preview3.png]  
+![Clock and Calendar Screenshot](preview3.png)
 
 ## ✨ Features  
 - 🖌️ **Draw Different Shapes** (Hexagon, Square, Triangle, etc.)  
